@@ -56,7 +56,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 Users who wish to **request the deletion of their account or any associated personal data** may contact us via email. We will process your request in a timely manner and remove your data from our servers in accordance with applicable laws.
 
 **To request deletion of your account or data, please email us at:**  
-📧 **houssamaziez@gmail.com**  
+📧 **innodevcompany@gmail.com**  
 Include your account identifier (email or username) to help us locate your data quickly.
 
 ## Changes to This Privacy Policy
@@ -68,4 +68,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:  
-📧 **houssamaziez@gmail.com**
+📧 **innodevcompany@gmail.com**
